@@ -32,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debkumar-baksi&show_icons=true&locale=en" alt="debkumar-baksi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debkumar-baksi&" alt="debkumar-baksi" /></p>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/95/88/cd/9588cd55dec18c33beed65ef40ff329d.gif" alt="animated" style="width: 800px;">
+</p>
