@@ -1,6 +1,8 @@
-<div style="width: 100%; overflow: hidden;">
-  <img src="https://i.pinimg.com/originals/71/f8/fd/71f8fd57ff0c026e00f529ab2fc03017.gif" alt="Anime GIF Banner" style="width: 100%; height: auto;">
-</div>
+<p align="center">
+  <img src="https://giffiles.alphacoders.com/262/26205.gif" alt="animated" style="width: 800px;">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Debkumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
