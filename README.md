@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/BaksiDebkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="baksidebkumar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/debkumar-baksi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debkumar baksi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/debkumar-baksi-269738279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debkumar baksi" height="30" width="40" /></a>
 <a href="https://instagram.com/debkumar_baksi05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debkumar_baksi05" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Debkumar_Baksi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="debkumar baksi" height="30" width="40" /></a>
 </p>
