@@ -1,5 +1,5 @@
 <div style="width: 100%; overflow: hidden;">
-  <img src="https://64.media.tumblr.com/ffc68e76aaa7fa6d30fadb103c6fe3e0/2d5dd3eeb972cdd0-35/s540x810/90727bf2de00d3ba9f7e18917b727dd0c9cb45fe.gif" alt="Anime GIF Banner" style="width: 100%; height: auto;">
+  <img src="https://i.pinimg.com/originals/71/f8/fd/71f8fd57ff0c026e00f529ab2fc03017.gif" alt="Anime GIF Banner" style="width: 100%; height: auto;">
 </div>
 <h1 align="center">Hi 👋, I'm Debkumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
