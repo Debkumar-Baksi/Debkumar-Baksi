@@ -75,19 +75,19 @@
 
 
 
-# Contact Me :
+# Connnect with Me 😉 :
 
 <p>
- </br>
 
 
 <img hight="320" width="450" align="right" alt="GIF" src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif?cid=ecf05e47e5johnmjhlgfn531ul84hhos79zii7hjmo2rtve6&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
 <H3>If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.</H3>
+</br>
 
 <a href="sg383332@gmail.com">
- <img align="left" alt="Gmail" width="60" hight="60" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+ <img align="left" alt="Gmail" width="60" hight="60" src="https://i.pinimg.com/564x/a1/d1/4b/a1d14ba7881740c8c3e428a75132a2ae.jpg" />
 </a>
 <a href="https://www.linkedin.com/in/debkumar-baksi-269738279/">
   <img align="left" alt="Linkedin" width="60" hight="60" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" />
@@ -96,13 +96,27 @@
   <img align="left" alt="ig" width="60" hight="60" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
 </a>
 <a href="https://twitter.com/BaksiDebkumar">
-  <img align="left" alt="x" width="60" hight="60" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" />
+  <img align="left" alt="x" width="70" hight="70" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100081311558990/">
+  <img align="left" alt="fb" width="60" hight="60" src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-transparent-png.png" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/sg383332">
+  <img align="left" alt="hackerrank" width="65" hight="65" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" />
+</a>
+</br>
+</br>
+</br>
+ <a href="https://leetcode.com/Debkumar_Baksi/">
+  <img align="left" alt="leetcode" width="70" hight="7" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
+</a>
+<a href="https://www.codechef.com/users/debkumar_baksi">
+  <img align="left" alt="codechef" width="60" hight="60" src="https://i.pinimg.com/564x/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" />
 </a>
  </p>
  
 
-</br>
-</br>
 </br>
 </br>
 </br>
