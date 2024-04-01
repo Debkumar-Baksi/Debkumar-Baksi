@@ -1,7 +1,7 @@
-# Konichiwa 👋
+# konnichiwa👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://giffiles.alphacoders.com/262/26205.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/b5/4a/1c/b54a1c982412c51d1620c971d369a9c1.gif">
 </div>
 
 </br>
@@ -13,13 +13,19 @@
 
 ### - I'm Debkumar Computer Science & Engineering Student from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://i.pinimg.com/originals/b5/4a/1c/b54a1c982412c51d1620c971d369a9c1.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVxYW90a2gyNHdhbW1jenJzdmxldzNtcXAyc3AxaWJzZWJrMndzbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kd9BlRovbPOykLBMqX/giphy.gif">
+
+
+</br>
+</br>
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
 - ✨ Advanced C , Python
 - ✨ Front End & Back End
 
+</br>
+</br>
 
 ### - Hobbies : 
 - ✨ Gaming Addict
@@ -28,6 +34,10 @@
 - ✨ Martial Arts {KYOKUSHIN}
 
 
+</br>
+</br>
+</br>
+</br>
 </br>
 </br>
 
@@ -71,19 +81,16 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://i.makeagif.com/media/11-18-2017/eqbI_H.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif?cid=ecf05e47e5johnmjhlgfn531ul84hhos79zii7hjmo2rtve6&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+<H3>If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.</H3>
 
 <a href="sg383332@gmail.com">
  <img align="left" alt="Gmail" width="60" hight="60" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 <a href="https://www.linkedin.com/in/debkumar-baksi-269738279/">
   <img align="left" alt="Linkedin" width="60" hight="60" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" />
-</br>
-</br>
-</br>
 </a>
 <a href="https://www.instagram.com/debkumar_baksi05/">
   <img align="left" alt="ig" width="60" hight="60" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
@@ -104,12 +111,18 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debkumar-baksi&show_icons=true&locale=en&layout=compact" alt="debkumar-baksi" /></p>
+</br>
+</br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debkumar-baksi&show_icons=true&locale=en" alt="debkumar-baksi" /></p>
+</br>
+</br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debkumar-baksi&" alt="debkumar-baksi" /></p>
 </br>
 </br>
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://media1.tenor.com/m/jozmfqzHNEsAAAAC/bye-anime.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVnbG8zbjBwcXkyc3NidjV1djQ5azRodGg2amIzOTFycm1waDBhOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QLpMNfBtUi3ss/giphy.gif">
 </div>
+
+# So long Fellas . . .👋
