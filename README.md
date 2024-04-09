@@ -114,6 +114,9 @@
 <a href="https://www.codechef.com/users/debkumar_baksi">
   <img align="left" alt="codechef" width="60" hight="60" src="https://i.pinimg.com/564x/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" />
 </a>
+<a href="https://takeuforward.org/profile/debkumarbaksi">
+  <img align="left" alt="takeuforward" width="60" hight="60" src="https://yt3.googleusercontent.com/ytc/AIdro_mdPFTT7VuJHQkvzW9gjJxvSV3bBDpEVNw8dWOmHjTT5g=s900-c-k-c0x00ffffff-no-rj" />
+</a>
  </p>
  
 
