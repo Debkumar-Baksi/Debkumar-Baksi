@@ -39,7 +39,7 @@
 - Stack Overflow: [User 21950714](https://stackoverflow.com/users/21950714)
 - Kaggle: [debkumarbaksi](https://kaggle.com/debkumarbaksi)
 - Facebook: [Profile](https://fb.com/profile.php?id=100081311558990)
-- Instagram: [@debkumar_baksi05](https://instagram.com/debkumar_baksi05)
+- Instagram: [@_deb_11.11_](https://www.instagram.com/_deb_11.11_/)
 - YouTube: [deb_codes](https://www.youtube.com/c/deb_codes)
 
 ---
