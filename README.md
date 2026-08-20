@@ -34,13 +34,8 @@
 
 ## Connect With Me
 
-- Twitter: [@debkumarbaksi05](https://twitter.com/debkumarbaksi05)
 - LinkedIn: [Debkumar Baksi](https://linkedin.com/in/debkumar-baksi-269738279)
-- Stack Overflow: [User 21950714](https://stackoverflow.com/users/21950714)
-- Kaggle: [debkumarbaksi](https://kaggle.com/debkumarbaksi)
-- Facebook: [Profile](https://fb.com/profile.php?id=100081311558990)
-- Instagram: [@_deb_11.11_](https://www.instagram.com/_deb_11.11_/)
-- YouTube: [deb_codes](https://www.youtube.com/c/deb_codes)
+- Instagram: [@dkbaksi](https://www.instagram.com/dkbaksi/)
 
 ---
 
